@@ -1,5 +1,5 @@
 updates:
-- directory: /source
+- directory: /
   open-pull-requests-limit: 100
   package-ecosystem: gomod
   schedule:
